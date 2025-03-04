@@ -1,0 +1,8 @@
+run-in-command/
+│
+├── run-in-command.py     # Main script for adding/removing context menu entry
+├── requirements.py       # Script to install required dependencies
+├── README.md            # Project documentation in markdown format
+├── README.html          # Project documentation in HTML format
+├── README.txt          # Project documentation in plain text format
+└── LICENSE             # Project license file 
